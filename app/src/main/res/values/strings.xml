@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">News Wave: Smart News Reader</string>
+
+    <!-- ASO-ready short description & keywords (simulate in strings) -->
+    <string name="aso_short">Fast news, trending headlines, offline reading</string>
+    <string name="aso_long">News Wave brings curated headlines across categories — politics, sports, tech, entertainment. Light-weight, fast, and ad-monetized for developers.</string>
+    <string name="aso_keywords">news, headlines, reader, local news, global news, breaking</string>
+
+    <!-- UI -->
+    <string name="show_banner">Banner</string>
+    <string name="show_interstitial">Interstitial</string>
+    <string name="show_app_open">App Open</string>
+    <string name="show_native">Native</string>
+    <string name="show_rewarded">Rewarded</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="reward_received">You received %1$d coins!</string>
+
+    <!-- dummy news -->
+    <string-array name="headlines">
+        <item>Global markets rally after economic report</item>
+        <item>New AI tool speeds up app development</item>
+        <item>Local festival draws thousands</item>
+        <item>Sports team wins championship</item>
+        <item>Scientists discover new exoplanet</item>
+    </string-array>
+
+    <string-array name="sources">
+        <item>World News</item>
+        <item>Tech Daily</item>
+        <item>Local Times</item>
+        <item>Sports Center</item>
+    </string-array>
+</resources>
